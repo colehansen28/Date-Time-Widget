@@ -1,6 +1,9 @@
 body{
     background: rgb(26, 26, 26);
-    padding: auto,
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 .datetime{
