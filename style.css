@@ -1,0 +1,27 @@
+body{
+    background: rgb(26, 26, 26);
+    padding: auto,
+}
+
+.datetime{
+    font-size: 16px;
+    padding: 24px;
+    background-color: rgb(66, 66, 66);
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.253);
+    border-radius: .5em;
+    border-right: 10px rgb(1, 144, 114) solid;
+    max-width: 400px;
+    font-family: sans-serif;
+}
+
+.time{
+    font-size: 3em;
+    color:rgb(0, 218, 170);
+}
+
+.date{
+    margin-top: 12px;
+    font-size: 1.75em;
+
+}
